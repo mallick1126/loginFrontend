@@ -103,7 +103,7 @@ const About = () => {
                       <label>Name</label>
                     </div>
                     <div className="col-md-6">
-                      <p>Akanchha Kumari</p>
+                      <p>Rahul Mallick</p>
                     </div>
                   </div>
 
@@ -112,7 +112,7 @@ const About = () => {
                       <label>Email</label>
                     </div>
                     <div className="col-md-6">
-                      <p>eceakanchha@gmail.com</p>
+                      <p>rahulmallick1126@gmail.com</p>
                     </div>
                   </div>
 
