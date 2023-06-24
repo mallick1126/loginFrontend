@@ -16,7 +16,7 @@ const About = () => {
 
             <div className="col-md-6">
               <div className="profile-head">
-                <h5>Akanchha Kumari</h5>
+                <h5>Rahul Mallick</h5>
                 <h6>Fullstack Developer</h6>
                 <p className="profile-rating mt-3 mb-5">
                   RATINGS: <span>8/10</span>
